@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KevFischer, but call me Kevin Fischer. I´m studying Computer Science since October 2020.
-- 👀 I’m interested in everything around Java, because this Language caught me into programming and still motivates me to go on.
-- 🌱 I’m currently learning JavaFX, due to I want to start some simple projects to present here.
-- 💞️ I’m looking to collaborate on any kind of Java Project, where my knowledge could help or I can expand my knowledge.
+- 👀 I’m interested in Python and Java Backend development.
+- 🌱 I’m currently learning OpenCV due to my studys.
+- 💞️ I’m looking to collaborate on any kind of Python project, which will increase my knowledge in any way.
 - 📫 How to reach me: kevinfischer260800@gmail.com
 
 <!---
